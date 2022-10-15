@@ -1,4 +1,5 @@
-### Array.prototype.includes()
+### Array.prototype.includes() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 Метод includes() определяет, содержит ли массив определённый элемент, возвращая в зависимости от этого true или false.
 
-[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+### Array.prototype.join([separator]) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+Метод join() объединяет все элементы массива (или массивоподобного объекта) в строку.
