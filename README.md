@@ -1,2 +1,2 @@
-# javascript-wiki
+# Заметки по JS
 JS notes
