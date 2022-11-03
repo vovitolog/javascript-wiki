@@ -18,3 +18,6 @@
 
 ### Array.prototype.indexOf() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 Метод indexOf() возвращает первый индекс, по которому данный элемент может быть найден в массиве или -1, если такого индекса нет.
+
+### Array.prototype.includes() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+Метод includes() определяет, содержит ли массив определённый элемент, возвращая в зависимости от этого true или false.
