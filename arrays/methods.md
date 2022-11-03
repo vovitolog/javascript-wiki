@@ -21,3 +21,6 @@
 
 ### Array.prototype.includes() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 Метод includes() определяет, содержит ли массив определённый элемент, возвращая в зависимости от этого true или false.
+
+### Array.prototype.sort([compareFunction]) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+Метод sort() на месте сортирует элементы массива и возвращает отсортированный массив. Сортировка не обязательно устойчива (англ.). Порядок сортировки по умолчанию соответствует порядку кодовых точек Unicode.
