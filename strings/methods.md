@@ -6,3 +6,6 @@
 
 ### String.prototype.split(separator, limit) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 Метод split() разбивает объект String на массив строк путём разделения строки указанной подстрокой. Метод split() разделяет строку на каждом сопоставлении с разделителем separator, но обрезает возвращаемый массив так, чтобы он содержал не более limit элементов.
+
+### String.prototype.substring(indexStart, indexEnd) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+Метод substring() возвращает подстроку строки между двумя индексами, или от одного индекса и до конца строки.
