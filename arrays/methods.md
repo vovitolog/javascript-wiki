@@ -4,5 +4,8 @@
 ### Array.prototype.join([separator]) [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 Метод join() объединяет все элементы массива (или массивоподобного объекта) в строку.
 
-### Array.prototype.unshift() [MDN(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)]
+### Array.prototype.unshift() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
 Метод unshift() добавляет один или более элементов в начало массива и возвращает новую длину массива.
+
+### Array.prototype.splice() [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+Метод splice() изменяет содержимое массива, удаляя существующие элементы и/или добавляя новые.
